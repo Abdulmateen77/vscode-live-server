@@ -15,7 +15,7 @@ export const isRelativePath = (pathUrl: string) => {
 };
 
 
-export class Helper {
+export class helper {
 
 
     public static testPathWithRoot(workSpacePath: string) {
